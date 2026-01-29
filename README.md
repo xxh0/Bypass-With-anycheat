@@ -1,2 +1,8 @@
 # Bypass-With-anycheat
-idk
+Common@technique.tobypassanticheats
+
+
+
+Change classes names to something non-common
+
+:Sob:
